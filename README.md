@@ -1,8 +1,8 @@
-### I am Riya, nice to see you here😊
+### I am Riya, good to see you here😊
 
-- 🌱 I’m currently learning Android dev
-- 💬 Ask me about kotlin, android studio and stuff
-- 📫 How to reach me: riyajhankda@gmail.com
+- 🌱 I’m currently learning Android dev and ML as well
+- 💬 Ask me about kotlin, android studio,designing and stuff
+- 📫 How to reach me: @jhankda
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: "I can sleep just after drinking a mug of coffee "🤷‍♀️🤦‍♀️
 
