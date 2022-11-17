@@ -1,6 +1,6 @@
 ### I am Riya, good to see you here😊
 
-- 🌱 I’m currently learning Android dev and ML as well
+- 🌱 I’m currently learning Android dev 
 - 💬 Ask me about kotlin, android studio,designing and stuff
 - 📫 How to reach me: @jhankda
 - 😄 Pronouns: She/Her
