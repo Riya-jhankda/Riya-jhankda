@@ -1,4 +1,9 @@
-### I am Riya, good to see you here😊
+
+
+![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)]
+<h1 align="center">Hi 👋, I'm Riya Jhankda</h1>
+<h3 align="center">A passionate android developer from India</h3>
+<img align="right" alt="Android" width="400" src="https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2018/04/Java-or-Android.png">
 
 - 🌱 I’m currently learning Android dev 
 - 💬 Ask me about kotlin, android studio,designing and stuff
